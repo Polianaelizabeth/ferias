@@ -1,7 +1,36 @@
 body{
-    background-color: rgb(168, 155, 254);
+    background: linear-gradient(90deg,rgb(106, 46, 244),rgb(225, 0, 255))
 }
 h1{
     text-align: center;
     font-size: 50pt;
+}
+p{
+    font-size: 20pt;
+    width: 70%;
+    margin-left: 15%;
+    text-align: center;
+}
+#chave{
+    text-align: center;
+    font-size: 15pt;
+    height: 20pt;
+    width: auto;
+    border: 3pt double black ;
+    background-color: rgb(219, 172, 246);
+}
+#btn{
+    height: 20pt;
+    width: auto;
+    border-radius: 3px;
+    margin-left: 3pt;
+    background-color: rgb(180, 132, 189);
+    font-weight: bolder;
+
+}
+
+#senha{
+    display: flex;
+    align-items: center ;
+    justify-content: center;
 }
