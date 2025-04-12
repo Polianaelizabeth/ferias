@@ -1,9 +1,40 @@
-# ferias
+# 🌴 Projeto Férias – Mensagem de Ausência
 
-Estarei saindo de ferias e quero deixar uma mensagem para meus colegas acessarem a partir de quinta!!
+## 📄 Descrição
 
-## por onde acessar??
+Este projeto foi desenvolvido para informar colegas e visitantes sobre o período de férias da autora. Ao acessar a página, os usuários encontram uma mensagem personalizada indicando a ausência temporária.
 
-acesse no link a seguir
+## 🔗 Acesso ao Projeto
 
-https://polianaelizabeth.github.io/ferias/
+Acesse a página informativa através do link abaixo:
+
+👉 [https://polianaelizabeth.github.io/ferias/](https://polianaelizabeth.github.io/ferias/)
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Node.js  
+- Express
+
+## 🚀 Funcionalidades
+
+- Exibição de uma mensagem personalizada de ausência.
+- Design simples e responsivo para diferentes dispositivos.
+- Código limpo e organizado para fácil manutenção.
+
+## 📂 Estrutura do Projeto
+
+```ferias/ ├── index.html ├── style.css ├── bd.js ├── package.json ├── package-lock.json ├── .gitignore └── LICENSE ```
+
+
+## 👩‍💻 Autora
+
+- **Poliana Elizabeth**  
+  [GitHub](https://github.com/Polianaelizabeth)  
+  [LinkedIn](https://www.linkedin.com/in/polianaefsilva)
+
+## 📄 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
